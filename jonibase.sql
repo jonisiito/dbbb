@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Base de datos: `putojoni`
+-- Base de datos: `jonibase`
 --
 
 -- --------------------------------------------------------
@@ -41,7 +41,6 @@ CREATE TABLE `registro` (
 
 INSERT INTO `registro` (`id`, `nombre`, `correo`, `clave`, `sesion`) VALUES
 (27, 'hola', 'hola@hola.com', 'hola', 'hEzVwDtDuD29pGTDVak+en2YyAOjlh3GFkYXNzlEzVc='),
-(39, 'alfonso', 'illo@hola.com', '1234', ''),
 (40, 'asd', 'alfonso@prueba.com', '1234', ''),
 (41, 'prueba1', 'prueba1@gmail.com', 'prueba1', 'prqDSKN0UAz9.'),
 (43, 'Sisuka', 'sisukamina@gmail.com', 'sisuka06', ''),
